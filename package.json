@@ -44,7 +44,7 @@
     "rimraf": "^2.5.4"
   },
   "dependencies": {
-    "aws-param-store": "^1.1.0",
+    "aws-param-store": "https://github.com/jeffthefate/aws-param-store/tarball/support-es5",
     "aws-sdk": "^2.196.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
